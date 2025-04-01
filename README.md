@@ -35,6 +35,7 @@ Pit Stop - Planejamento Estratégico
 7. Planos de Ação
 
     Marketing:
+   
         Realizar campanhas de marketing digital para aumentar a visibilidade da loja.
    
         Promover eventos e promoções para atrair novos clientes.
@@ -42,6 +43,7 @@ Pit Stop - Planejamento Estratégico
         Criar um programa de fidelidade com descontos e benefícios exclusivos.
    
     Operações:
+   
         Otimizar o layout da loja para facilitar a circulação e a compra.
    
         Ampliar o horário de funcionamento para atender às necessidades dos clientes.
@@ -49,6 +51,7 @@ Pit Stop - Planejamento Estratégico
         Implementar um sistema de gestão de estoque eficiente para evitar rupturas e perdas.
    
     Produtos:
+   
         Ampliar a variedade de produtos, incluindo opções saudáveis e produtos locais.
    
         Desenvolver parcerias com fornecedores locais para oferecer produtos exclusivos.
@@ -56,6 +59,7 @@ Pit Stop - Planejamento Estratégico
         Implementar um sistema de controle de qualidade para garantir a frescura e a segurança dos produtos.
    
     Atendimento:
+   
         Treinar os funcionários para oferecer um atendimento cordial e eficiente.
    
         Criar um ambiente acolhedor e agradável na loja.
@@ -63,6 +67,7 @@ Pit Stop - Planejamento Estratégico
         Coletar feedback dos clientes para melhorar continuamente o atendimento.
    
     Sustentabilidade:
+   
         Implementar práticas de reciclagem e redução de resíduos.
    
         Utilizar embalagens biodegradáveis e produtos ecológicos.
